@@ -6,16 +6,19 @@
 - 👨‍🚀 &nbsp; Passionate about tech, music, and creating solutions!
 - 🎓 &nbsp; Studying Computer Science  at PUC-RIO, Brazil.
 - 🌱 &nbsp; Learning more about Machine learning and data analysis.
-- 🚀 &nbsp; Studying for the ICPC Marathon.
+- 🚀 &nbsp; Passionate about learning new technologies, currently studying GO.
+- 🚀 &nbsp; Getting ready for ICPC marathon
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - 💻 &nbsp;
+  ![Swift](https://img.shields.io/badge/-Swift-333333?style=flat&logo=swift)
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
   ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
   ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
   ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=C&logoColor=00599C)
-![Lua](https://img.shields.io/badge/-Lua-333333?style=flat&logo=lua&logoColor=white)
+  ![Lua](https://img.shields.io/badge/-Lua-333333?style=flat&logo=lua&logoColor=white)
+  ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=black)
 - 🌐 &nbsp;
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
