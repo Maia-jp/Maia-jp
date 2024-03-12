@@ -6,7 +6,7 @@
 - 👨‍🚀 &nbsp; Passionate about tech, music, and creating solutions!
 - 🎓 &nbsp; Studying Computer Science  at PUC-RIO, Brazil.
 - 🍎 &nbsp; Winner of the Apple WWDC23 Swift Student Challenge
-- 👨‍💻 &nbsp; Currently working at Apple Developer Academy | PUC-Rio
+- 👨‍💻 &nbsp; Currently working at [aiXplain](https://aixplain.com/)
 - 🎶 &nbsp; Creator of the [Sound Journey App](https://apps.apple.com/br/app/sound-journey/id1643920938?l=en)
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
